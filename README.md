@@ -10,6 +10,8 @@ gps-sdr-sim: https://github.com/osqzss/gps-sdr-sim
 
 GNU Radio: https://www.gnuradio.org/  
 
+https://wiki.gnuradio.org/index.php?title=GlobalPositioningSystem  
+
 
 Teorie:  
 1.1 GPS/GNSS obecně  
