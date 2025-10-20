@@ -6,7 +6,14 @@ https://www.youtube.com/watch?v=FU_pY2sTwTA
 https://www.youtube.com/watch?v=AlHPDRQ08jU  
 https://geospatial.trimble.com/en/resources/blog/gps-101-learn-how-gps-works  
 
+
+https://natronics.github.io/blag/2014/gps-spreading/  
+
 gps-sdr-sim: https://github.com/osqzss/gps-sdr-sim  
+https://github.com/Quenii/gps-sdr-sim-realtime  
+
+https://github.com/lukasz-wiecaszek/gr-gnss-gnuradio-3.8
+
 
 GNU Radio: https://www.gnuradio.org/  
 
